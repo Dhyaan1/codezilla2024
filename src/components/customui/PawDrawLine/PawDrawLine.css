@@ -1,0 +1,41 @@
+.lineToDraw {
+  width: 0%;
+  border: 2px solid black;
+  height: 20rem;
+  border-radius: 100rem;
+  position: absolute;
+}
+
+.silcontainer {
+  display: flex;
+  height: 20rem;
+  width: 100%;
+}
+
+.gridanimal {
+  width: 10%;
+  display: flex;
+}
+
+.componentSlider {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.gridanimal img {
+  opacity: 0.2;
+  padding: 1rem;
+  margin: auto;
+}
+
+.slider {
+  width: 60%;
+  margin: 0 20%;
+  height: 4px;
+  accent-color: black;
+}
+.componentSlider span {
+  text-align: center;
+  font-size: 3rem;
+}
