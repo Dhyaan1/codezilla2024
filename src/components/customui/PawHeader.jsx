@@ -50,5 +50,3 @@ export default function PawHeader() {
     </>
   );
 }
-
-function PawPrintIcon(props) {}
