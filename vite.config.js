@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/",
+  base: "/codezilla2024",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
