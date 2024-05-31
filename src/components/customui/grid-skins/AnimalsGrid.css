@@ -27,150 +27,150 @@
 }
 .card-cat {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/cat.png") no-repeat;
+  background: url("/animal-skins/cat.png") no-repeat;
 }
 .card-cat:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/cat.png") no-repeat;
+  background: url("/animal-real/cat.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 
 .card-cat2 {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/cat2.png") no-repeat;
+  background: url("/animal-skins/cat2.png") no-repeat;
 }
 .card-cat2:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/cat2.png") no-repeat;
+  background: url("/animal-real/cat2.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 .card-che {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/che.png") no-repeat;
+  background: url("/animal-skins/che.png") no-repeat;
 }
 .card-che:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/che.png") no-repeat;
+  background: url("/animal-real/che.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 
 .card-chiken {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/chiken.png") no-repeat;
+  background: url("/animal-skins/chiken.png") no-repeat;
 }
 .card-chiken:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/chiken.png") no-repeat;
+  background: url("/animal-real/chiken.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 
 .card-cow {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/cow.png") no-repeat;
+  background: url("/animal-skins/cow.png") no-repeat;
 }
 .card-cow:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/cow.png") no-repeat;
+  background: url("/animal-real/cow.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 
 .card-croc {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/croc.png") no-repeat;
+  background: url("/animal-skins/croc.png") no-repeat;
 }
 .card-croc:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/croc.png") no-repeat;
+  background: url("/animal-real/croc.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 
 .card-dog1 {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/dog1.png") no-repeat;
+  background: url("/animal-skins/dog1.png") no-repeat;
 }
 .card-dog1:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/dog1.png") no-repeat;
+  background: url("/animal-real/dog1.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 .card-dog2 {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/dog2.png") no-repeat;
+  background: url("/animal-skins/dog2.png") no-repeat;
 }
 .card-dog2:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/dog2.png") no-repeat;
+  background: url("/animal-real/dog2.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 .card-leo {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/leo.png") no-repeat;
+  background: url("/animal-skins/leo.png") no-repeat;
 }
 .card-leo:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/leo.png") no-repeat;
+  background: url("/animal-real/leo.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 .card-pig {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/pig.png") no-repeat;
+  background: url("/animal-skins/pig.png") no-repeat;
 }
 .card-pig:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/pig.png") no-repeat;
+  background: url("/animal-real/pig.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 
 .card-ti {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/ti.png") no-repeat;
+  background: url("/animal-skins/ti.png") no-repeat;
 }
 .card-ti:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/ti.png") no-repeat;
+  background: url("/animal-real/ti.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 .card-zze {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/zze.png") no-repeat;
+  background: url("/animal-skins/zze.png") no-repeat;
 }
 .card-zze:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/zze.png") no-repeat;
+  background: url("/animal-real/zze.png") no-repeat;
   background-size: cover;
   opacity: 1;
 }
 .card-peacock {
   opacity: 0.5;
-  background: url("src/assets/animal-skins/peacock.jpg") no-repeat;
+  background: url("/animal-skins/peacock.jpg") no-repeat;
 }
 .card-peacock:hover {
   transition: all 0.3s;
   transform: scale(1.1);
-  background: url("src/assets/animal-real/peacock.jpg") no-repeat;
+  background: url("/animal-real/peacock.jpg") no-repeat;
   background-size: cover;
   opacity: 1;
 }

@@ -1,6 +1,16 @@
 import "./PawDrawLine.css";
 import { useRef, useState, useEffect } from "react";
 import { motion } from "framer-motion";
+import lion from "../../../assets/lion-slid.png";
+import cheetah from "../../../assets/cheetah-slid.png";
+import wolf from "../../../assets/wolf-slid.png";
+import horse from "../../../assets/horse-slid.png";
+import dog from "../../../assets/dog-slid.png";
+import cat from "../../../assets/cat-slid.png";
+import cow from "../../../assets/cow-slid.png";
+import pig from "../../../assets/pig-slid.png";
+import goat from "../../../assets/goat-slid.png";
+import chicken from "../../../assets/chicken-slid.png";
 
 export default function PawDrawLine() {
   const [value, setValue] = useState(0);
@@ -9,16 +19,16 @@ export default function PawDrawLine() {
   const silcontainer = useRef();
 
   const animals = [
-    "lion-slid.png",
-    "cheetah-slid.png",
-    "wolf-slid.png",
-    "horse-slid.png",
-    "dog-slid.png",
-    "cat-slid.png",
-    "cow-slid.png",
-    "pig-slid.png",
-    "goat-slid.png",
-    "chicken-slid.png",
+    lion,
+    cheetah,
+    wolf,
+    horse,
+    dog,
+    cat,
+    cow,
+    pig,
+    goat,
+    chicken,
   ];
 
   console.log(value);
@@ -54,7 +64,7 @@ export default function PawDrawLine() {
         <div className="lineToDraw" ref={lineRef}></div>{" "}
         {refs.map((ref, index) => (
           <div className="gridanimal" key={index} ref={ref}>
-            <img src={"src/assets/" + animals[index]} alt={animals[index]} />
+            <img src={animals[index]} alt={animals[index]} />
           </div>
         ))}
       </div>
