@@ -1,4 +1,4 @@
-# Paws for a Cause ([Live Link](dhyaan1.github.io/codezilla2024))
+# Paws for a Cause ([Live Link](https://dhyaan1.github.io/codezilla2024))
 
 A static website against animal cruelty that we ([Dharmisht](https://github.com/dragn0id), [Dhyaan](https://github.com/Dhyaan1), [Hrishik](https://github.com/fringewidth), and [Kusha](https://github.com/silver-shadow)) hacked together in four hours for an inter-collegiate front-end website building competiton, and won :)
 
