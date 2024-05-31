@@ -15,7 +15,7 @@ function App() {
     <>
       <PawProgress />
       <PawHeader />
-      <div className="h-[500svh] bg-[#f5f5f5] flex flex-col justify-center items-center font-prata">
+      <div className="h-auto bg-[#f5f5f5] flex flex-col justify-center items-center font-prata">
         {/* Replace this with your component or just edit this one */}
         <PawIntro />
         <PawHarm />
