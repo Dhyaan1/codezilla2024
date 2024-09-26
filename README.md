@@ -1,15 +1,12 @@
 # Paws for a Cause ([Live Link](https://dhyaan1.github.io/codezilla2024))
 
-A static website against animal cruelty that we ([Dharmisht](https://github.com/dragn0id), [Dhyaan](https://github.com/Dhyaan1), [Hrishik](https://github.com/fringewidth), and [Kusha](https://github.com/silver-shadow)) hacked together in four hours for an inter-collegiate front-end website building competiton, and won :)
+A webpage against animal cruelty that we ([Dharmisht](https://github.com/dragn0id), [Dhyaan](https://github.com/Dhyaan1), [Hrishik](https://github.com/fringewidth), and [Kusha](https://github.com/silver-shadow)) hacked together in four hours for an inter-collegiate front-end website building competiton, and won :)
 
-Uniquely, it tries to bring a different perspective to many of the things we take for granted, namely:
+Uniquely, the website encourages users to reconsider everyday practices they often take for granted, through interactive elements that explore:
 
-- Stray Animals
-- Animal Consumption
-- Animal Skinning for fashion
+- The plight of stray animals
+- The realities behind animal consumption
+- The hidden horrors of using animal skins in fashion
 
-with interactive components written in React and good ol' Vanilla CSS.
-
-We also provided some (non functional) features to adopt pets from shelters and donate to prevent animal cruelty.
-
-We used Tailwind, ShadCN and FramerMotion to provide a nice UI that ties everything together.
+These interactive features were written in React and good ol' Vanilla CSS. We also used Tailwind, ShadCN and FramerMotion to provide a nice UI that ties everything together.
+We also provided some features to adopt pets from shelters and donate to prevent animal cruelty that currently link to real animal-cruelty causes.
