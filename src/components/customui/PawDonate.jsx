@@ -37,7 +37,7 @@ export default function PawDonate() {
                   onChange={handleChange}
                 />
                 <Button className="bg-gray-900 p-4 mt-2 hover:bg-gray-900 text-white">
-                  <a href="https://payment.page/demo/">Donate</a>
+                  <a href="https://www.peopleforanimalsindia.org/donate">Donate</a>
                 </Button>
               </form>
               <br />
